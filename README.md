@@ -10,4 +10,4 @@ $horoscope->getNameByUnknownDate($date);</code>
 
 
 <br><br>
-You can use this formats: "yyyy" OR "dd.mm.yyy", year between 1900 to 2099
+$date should looks like: "yyyy" OR "dd.mm.yyy", year between 1900 to 2099
