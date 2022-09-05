@@ -1,6 +1,9 @@
 # PHPChineseYear
-Ready PHP class to get name of Chinese Year - Enjoy!
 
+## Compatible with PHP v.8.0 ++
+If your project on below PHP v.8.0, use "switch" construction instead of "match"
+
+Ready PHP class to get name of Chinese Year - Enjoy!
 
 To use it in your project, use this class in your file and initiate it like this: <br><br>
 
